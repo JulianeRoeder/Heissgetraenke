@@ -1,11 +1,11 @@
 # Heißgetränkekonsum
 
-Zur Visualisierung bitte [hier entlang]().
+Zur Visualisierung bitte [hier entlang](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/Heissgetraenke/main/README.md#1).
 
 
 ## Tag 1
 
-### Ergebnisse der analgoen und der digitalen Strichlisten
+> Ergebnisse der analgoen und der digitalen Strichlisten
 
 Zur Erinnerung: 1 Becher = 2 Tassen
 
@@ -23,7 +23,7 @@ Zur Erinnerung: 1 Becher = 2 Tassen
 | 17  |     |     |     |     |     |
 
 
-### Umrechnung auf Tassen
+> Umrechnung auf Tassen
 
 | Tageszeit | Kaffee | Tee | Tee online |
 |:--------- |:------ |:--- |:---------- |
