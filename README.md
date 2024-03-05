@@ -20,7 +20,7 @@ Zur Visualisierung bitte [hier entlang](https://liascript.github.io/course/?http
 Zur Erinnerung: 1 Becher = 2 Tassen
 
 | Tageszeit | Kaffee (Tasse) | Kaffee (Becher) | Tee (Tasse) | Tee (Becher) | Tee (Becher) online |
-|:--- |:--- |:--- |:--- |:--- |:--- |https://upload.wikimedia.org/wikipedia/commons/0/04/Tea_in_different_grade_of_fermentation.jpg
+|:--- |:--- |:--- |:--- |:--- |:--- |
 | 8   |     |     |     |     | 1   |
 | 9   | 20  |     | 6   |     |     |
 | 10  | 5   |     | 2   |     | 1   |
