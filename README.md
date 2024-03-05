@@ -1,14 +1,14 @@
 <!-- 
+
 language: de
+
 narrator: Deutsch Female
+
 -->
 
-# Heißgetränkekonsum
+# Heißgetränkekonsum - Tag 1
 
 Zur Visualisierung bitte [hier entlang](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/Heissgetraenke/main/README.md).
-
-
-## Tag 1
 
 ### Ergebnisse der analogen und der digitalen Strichlisten
 
