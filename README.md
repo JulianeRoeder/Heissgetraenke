@@ -45,8 +45,8 @@ Zur Erinnerung: 1 Becher = 2 Tassen
 
 Insgesamt wurden an Tag 1 vor Ort 43 Tassen Kaffee und 31 Tassen Tee getrunken. Gleichzeitig wurden 57 Teebeutel verbraucht (21 Schwarzer Tee, 22 Kräutertee, 14 Früchtetee). Online wurden insgesamt 4 Tassen Tee getrunken.
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 > Frage: habt ihr schon ausprobiert euch die Texte vorlesen zu lassen?
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [( )] Nein. Ich wusste nicht dass das geht.
 - [( )] Nein.
 - [(X)] Ja.
