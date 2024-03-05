@@ -6,16 +6,21 @@ narrator: Deutsch Female
 
 -->
 
-# Heißgetränkekonsum - Tag 1
+# Heißgetränkekonsum
 
 Zur Visualisierung bitte [hier entlang](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/Heissgetraenke/main/README.md).
+
+## Tag 1
+
+![Kaffee](https://upload.wikimedia.org/wikipedia/commons/f/f2/Coffee-563797.jpg)
+![Tee](https://upload.wikimedia.org/wikipedia/commons/0/04/Tea_in_different_grade_of_fermentation.jpg)
 
 ### Ergebnisse der analogen und der digitalen Strichlisten
 
 Zur Erinnerung: 1 Becher = 2 Tassen
 
 | Tageszeit | Kaffee (Tasse) | Kaffee (Becher) | Tee (Tasse) | Tee (Becher) | Tee (Becher) online |
-|:--- |:--- |:--- |:--- |:--- |:--- |
+|:--- |:--- |:--- |:--- |:--- |:--- |https://upload.wikimedia.org/wikipedia/commons/0/04/Tea_in_different_grade_of_fermentation.jpg
 | 8   |     |     |     |     | 1   |
 | 9   | 20  |     | 6   |     |     |
 | 10  | 5   |     | 2   |     | 1   |
