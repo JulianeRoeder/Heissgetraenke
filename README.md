@@ -5,12 +5,12 @@ narrator: Deutsch Female
 
 # Heißgetränkekonsum
 
-Zur Visualisierung bitte [hier entlang](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/Heissgetraenke/main/README.md#1).
+Zur Visualisierung bitte [hier entlang](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/Heissgetraenke/main/README.md).
 
 
 ## Tag 1
 
-> Ergebnisse der analgoen und der digitalen Strichlisten
+### Ergebnisse der analogen und der digitalen Strichlisten
 
 Zur Erinnerung: 1 Becher = 2 Tassen
 
@@ -28,7 +28,7 @@ Zur Erinnerung: 1 Becher = 2 Tassen
 | 17  |     |     |     |     |     |
 
 
-> Umrechnung auf Tassen
+### Umrechnung auf Tassen
 
 | Tageszeit | Kaffee | Tee | Tee online |
 |:--------- |:------ |:--- |:---------- |
@@ -45,13 +45,14 @@ Zur Erinnerung: 1 Becher = 2 Tassen
 
 Insgesamt wurden an Tag 1 vor Ort 43 Tassen Kaffee und 31 Tassen Tee getrunken. Gleichzeitig wurden 57 Teebeutel verbraucht (21 Schwarzer Tee, 22 Kräutertee, 14 Früchtetee). Online wurden insgesamt 4 Tassen Tee getrunken.
 
-> Frage: habt ihr schon ausprobiert euch die Texte vorlesen zu lassen?
+### Frage
+> Habt ihr wirklich jedes Mal einen Strich gemacht als Ihr Euch eine Tasse geholt habt?
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] Nein. Ich wusste nicht dass das geht.
 - [( )] Nein.
-- [(X)] Ja.
-- [[?]] Am unteren Rand ist ein Lautsprechersymbol.
-- [[?]] Einfach draufklicken und einen Moment warten...
+- [( )] Naja, **fast** immer...
+- [(X)] Ja!
+- [[?]] Waren heute morgen wirklich alle Teepackungen voll?
+- [[?]] Wieviel Kaffee wurde **wirklich** getrunken 😱?
 
 
 
