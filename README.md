@@ -59,5 +59,46 @@ Insgesamt wurden an Tag 1 vor Ort 43 Tassen Kaffee und 33 Tassen Tee getrunken. 
 - [[?]] Waren heute morgen wirklich alle Teepackungen voll?
 - [[?]] Wieviel Kaffee wurde **wirklich** getrunken 😱?
 
+## Tag 2
 
+### Ergebnisse der analogen und der digitalen Strichlisten
+
+Zur Erinnerung: 1 Becher = 2 Tassen
+
+| Tageszeit | Kaffee (Tasse) | Kaffee (Becher) | Tee (Tasse) | Tee (Becher) | Tee (Becher) online |
+|:--- |:--- |:--- |:--- |:--- |:--- |
+| 8   |     |     |     |     |    |
+| 9   |   |     |    |     |     |
+| 10  |    |     |    |     |    |
+| 11  |    |     |    |    |     |
+| 12  |    |     |    |     |     |
+| 13  |     |     |     |     |     |
+| 14  |    |     |    |    |     |
+| 15  |    |     |    |     |     |
+| 16  |    |     |    |    |     |
+| 17  |     |     |     |     |     |
+
+
+### Umrechnung auf Tassen
+
+| Tageszeit | Kaffee | Tee | Tee online |
+|:--------- |:------ |:--- |:---------- |
+| 8         |        |     |           | 
+| 9         |      |    |            |
+| 10        |       |    |           |
+| 11        |       |    |            |
+| 12        |       |    |            |
+| 13        |        |     |            |
+| 14        |       |    |            |
+| 15        |       |    |            |
+| 16        |       |    |            |
+| 17        |        |     |            |
+
+Insgesamt wurden an Tag 2 vor Ort X Tassen Kaffee und X Tassen Tee getrunken. Gleichzeitig wurden X Teebeutel verbraucht (X Schwarzer Tee, X Kräutertee, X Früchtetee). Online wurden insgesamt X Tassen Tee getrunken.
+
+### Herzlichen Dank für Eure Teilnahme und Unterstützung!
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Centaurea_sp_und_Bombus_sp.JPG)
+
+Wer mehr über LiaScript erfahren möchte findet [hier](https://liascript.github.io/) jede Menge Dokumentation, Vorlagen, und Links zu wirklich hilfreichen Workshopaufzeichnungen im LiaScript-YouTubekanal.
 
