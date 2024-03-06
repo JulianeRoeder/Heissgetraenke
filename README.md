@@ -29,7 +29,7 @@ Zur Erinnerung: 1 Becher = 2 Tassen
 | 13  |     |     |     |     |     |
 | 14  | 8   |     | 3   | 2   |     |
 | 15  | 3   |     | 1   |     |     |
-| 16  | 2   |     | 1   | 3   |     |
+| 16  | 2   |     | 1   | 4   |     |
 | 17  |     |     |     |     |     |
 
 
@@ -45,10 +45,10 @@ Zur Erinnerung: 1 Becher = 2 Tassen
 | 13        |        |     |            |
 | 14        | 8      | 7   |            |
 | 15        | 3      | 1   |            |
-| 16        | 2      | 7   |            |
+| 16        | 2      | 9   |            |
 | 17        |        |     |            |
 
-Insgesamt wurden an Tag 1 vor Ort 43 Tassen Kaffee und 31 Tassen Tee getrunken. Gleichzeitig wurden 34 Teebeutel verbraucht (21 Schwarzer Tee, 12 Kräutertee, 1 Früchtetee). Online wurden insgesamt 4 Tassen Tee getrunken.
+Insgesamt wurden an Tag 1 vor Ort 43 Tassen Kaffee und 33 Tassen Tee getrunken. Gleichzeitig wurden 34 Teebeutel verbraucht (21 Schwarzer Tee, 12 Kräutertee, 1 Früchtetee). Online wurden insgesamt 4 Tassen Tee getrunken.
 
 ### Frage
 > Habt ihr wirklich jedes Mal einen Strich gemacht als Ihr Euch eine Tasse geholt habt?
