@@ -112,11 +112,7 @@ Insgesamt wurden an Tag 2 vor Ort 43 Tassen Kaffee und 25 Tassen Tee getrunken. 
 
 ## Vergleich Tag 1 und Tag 2
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-
-    <div style="display: inline-block;">
-
-        <h2>Tag 1</h2>
+**Tag 1**
 
 | Tageszeit | Kaffee | Tee | Tee online |
 |:--------- |:------ |:--- |:---------- |
@@ -131,9 +127,8 @@ Insgesamt wurden an Tag 2 vor Ort 43 Tassen Kaffee und 25 Tassen Tee getrunken. 
 | 16        | 2      | 9   | 2          |
 | 17        |        |     |            |
 
-    </div>
-    <div style="display: inline-block;">
-        <h2>Tag 2</h2>
+
+**Tag 2**
 
 | Tageszeit | Kaffee | Tee | Tee online |
 |:--------- |:------ |:--- |:---------- |
@@ -148,8 +143,6 @@ Insgesamt wurden an Tag 2 vor Ort 43 Tassen Kaffee und 25 Tassen Tee getrunken. 
 | 16        | 2      |     |            |
 | 17        |        |     |            |
 
-    </div>
-
 Insgesamt wurden an den beiden Tagen vor Ort 86 Tassen Kaffee und 58 Tassen Tee getrunken.  
 
 ### Herzlichen Dank für Eure Teilnahme und Unterstützung!
@@ -157,4 +150,3 @@ Insgesamt wurden an den beiden Tagen vor Ort 86 Tassen Kaffee und 58 Tassen Tee 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Centaurea_sp_und_Bombus_sp.JPG)
 
 Wer mehr über LiaScript erfahren möchte findet [hier](https://liascript.github.io/) jede Menge Dokumentation, Vorlagen, und Links zu wirklich hilfreichen Workshopaufzeichnungen im LiaScript-YouTubekanal.
-
