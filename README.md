@@ -4,16 +4,30 @@ language: de
 
 narrator: Deutsch Female
 
+version: 0.3
+
 -->
 
 # Heißgetränkekonsum
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+    <h2>Kaffee</h2>
+![Kaffee](https://upload.wikimedia.org/wikipedia/commons/f/f2/Coffee-563797.jpg)
+
+    </div>
+    <div style="display: inline-block;">
+        <h2>Tee</h2>
+![Tee](https://upload.wikimedia.org/wikipedia/commons/0/04/Tea_in_different_grade_of_fermentation.jpg)
+
+    </div>
+</div>
 
 Zur Visualisierung bitte [hier entlang](https://liascript.github.io/course/?https://raw.githubusercontent.com/JulianeRoeder/Heissgetraenke/main/README.md).
 
 ## Tag 1
 
-![Kaffee](https://upload.wikimedia.org/wikipedia/commons/f/f2/Coffee-563797.jpg)
-![Tee](https://upload.wikimedia.org/wikipedia/commons/0/04/Tea_in_different_grade_of_fermentation.jpg)
+
 
 ### Ergebnisse der analogen und der digitalen Strichlisten
 
@@ -95,6 +109,48 @@ Zur Erinnerung: 1 Becher = 2 Tassen
 | 17        |        |     |            |
 
 Insgesamt wurden an Tag 2 vor Ort 43 Tassen Kaffee und 25 Tassen Tee getrunken. Gleichzeitig wurden X Teebeutel verbraucht (X Schwarzer Tee, 15 Kräutertee, 2 Früchtetee). Online wurden insgesamt 6 Tassen Tee getrunken.
+
+## Vergleich Tag 1 und Tag 2
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+
+    <div style="display: inline-block;">
+
+        <h2>Tag 1</h2>
+
+| Tageszeit | Kaffee | Tee | Tee online |
+|:--------- |:------ |:--- |:---------- |
+| 8         |        |     | 2          |
+| 9         | 20     | 6   |            |
+| 10        | 5      | 2   | 2          |
+| 11        | 1      | 6   |            |
+| 12        | 4      | 2   |            |
+| 13        |        |     |            |
+| 14        | 8      | 7   |            |
+| 15        | 3      | 1   |            |
+| 16        | 2      | 9   | 2          |
+| 17        |        |     |            |
+
+    </div>
+    <div style="display: inline-block;">
+        <h2>Tag 2</h2>
+
+| Tageszeit | Kaffee | Tee | Tee online |
+|:--------- |:------ |:--- |:---------- |
+| 8         | 9      | 4   | 2          |
+| 9         | 5      |     |            |
+| 10        | 13     | 7   | 1          |
+| 11        | 2      |     | 1          |
+| 12        |        | 5   |            |
+| 13        | 4      | 6   |            |
+| 14        | 3      |     |            |
+| 15        | 5      | 3   | 2          | 
+| 16        | 2      |     |            |
+| 17        |        |     |            |
+
+    </div>
+
+Insgesamt wurden an den beiden Tagen vor Ort 86 Tassen Kaffee und 58 Tassen Tee getrunken.  
 
 ### Herzlichen Dank für Eure Teilnahme und Unterstützung!
 
